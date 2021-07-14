@@ -1,0 +1,1 @@
+worker: python logger-mirage1.py
